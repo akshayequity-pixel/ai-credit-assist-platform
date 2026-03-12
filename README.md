@@ -2,7 +2,6 @@
 ### RAG + LLM + Dynamic Video | Chat With Your Credit Bureau | 500K+ Users
 
 ![AI-Native Product](https://img.shields.io/badge/AI--Native-Product%20Build-4F46E5?style=flat-square)
-![Architecture](https://img.shields.io/badge/RAG-+-LLaMA-451CA6?style=flat-square)
 ![Domain](https://img.shields.io/badge/Fintech-Credit_Inclusion-059669?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
 
